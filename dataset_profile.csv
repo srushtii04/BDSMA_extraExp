@@ -1,0 +1,12 @@
+column,pandas_dtype,inferred_type,missing_count,missing_percent,unique_values,example_values
+user_id,object,identifier,0,0.0,2000,"['USR_00001', 'USR_00002', 'USR_00003']"
+age,int64,numeric,0,0.0,43,"['54', '25', '19']"
+gender,object,categorical,0,0.0,3,"['Female', 'Male', 'Female']"
+region,object,categorical,0,0.0,5,"['India', 'India', 'India']"
+platform,object,categorical,0,0.0,5,"['TikTok', 'Facebook', 'Instagram']"
+followers,int64,numeric,0,0.0,1561,"['2550', '871', '1120']"
+posts_per_week,int64,numeric,0,0.0,15,"['8', '5', '4']"
+sentiment,object,categorical,0,0.0,3,"['Positive', 'Neutral', 'Negative']"
+engagement_rate,float64,numeric,0,0.0,1338,"['0.1835', '0.1692', '0.1693']"
+topic,object,categorical,0,0.0,7,"['Technology', 'Food', 'Sports']"
+account_type,object,categorical,0,0.0,3,"['Personal', 'Personal', 'Personal']"

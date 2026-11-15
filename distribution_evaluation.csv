@@ -1,0 +1,12 @@
+column,type,metric,score,p_value
+user_id,identifier,Skipped,,
+age,numeric,KS statistic,0.018,0.9023552779223781
+gender,categorical,TVD,0.01200000000000001,
+region,categorical,TVD,0.006000000000000005,
+platform,categorical,TVD,0.019000000000000003,
+followers,numeric,KS statistic,0.027,0.4596372544037147
+posts_per_week,numeric,KS statistic,0.009,0.999997902129683
+sentiment,categorical,TVD,0.009500000000000008,
+engagement_rate,numeric,KS statistic,0.021,0.770029236885313
+topic,categorical,TVD,0.018000000000000016,
+account_type,categorical,TVD,0.006500000000000006,

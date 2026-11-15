@@ -1,0 +1,12 @@
+column,real_type,synthetic_type,type_match,real_missing_%,synthetic_missing_%
+user_id,identifier,identifier,TRUE,0,0
+age,numeric,numeric,TRUE,0,0
+gender,categorical,categorical,TRUE,0,0
+region,categorical,categorical,TRUE,0,0
+platform,categorical,categorical,TRUE,0,0
+followers,numeric,numeric,TRUE,0,0
+posts_per_week,numeric,numeric,TRUE,0,0
+sentiment,categorical,categorical,TRUE,0,0
+engagement_rate,numeric,numeric,TRUE,0,0
+topic,categorical,categorical,TRUE,0,0
+account_type,categorical,categorical,TRUE,0,0

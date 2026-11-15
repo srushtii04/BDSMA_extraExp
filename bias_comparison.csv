@@ -1,0 +1,7 @@
+dataset,group,representation_%,most_common_outcome,most_common_outcome_rate_%
+Real,Female,43.6,Positive,53.44036697
+Real,Male,48.2,Positive,52.90456432
+Real,Other,8.2,Positive,51.2195122
+Synthetic,Male,47,Positive,54.25531915
+Synthetic,Female,44.8,Positive,52.12053571
+Synthetic,Other,8.2,Positive,55.48780488
